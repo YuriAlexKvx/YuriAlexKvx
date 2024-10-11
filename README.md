@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=700f0a" height="16" />
   <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=4e0b1e" height="16" />
   <img src="https://img.shields.io/badge/JAVA-%20?style=flat-square&logo=java&logoColor=white&color=3e0928" height="16" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-%20?style=flat-square&logo=javascript&logoColor=white&color=3e0928" height="16" />
   <img src="https://img.shields.io/badge/SQL-%20?style=flat-square&logo=mysql&logoColor=white&color=01004d" height="16"/>
   <h6>Frameworks:</h6>
   <img src="https://img.shields.io/badge/SPRING-%20?style=flat-square&logo=spring&logoColor=white&color=811100" height="16" />
